@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+.interior { position: absolute;
+     width:100px; 
+     height:100px;
+    background-color: blue;
+    border:5px solid white;}
+.div1{left: 100px;
+    top: 0px;
+    background-color:red;}
+.div2{left: 240px;
+    top: 0px; transform: rotate(-15deg);
+background-color: orange;}
+.div3{left: 200px;
+    top: 80px;
+    background-color: yellow;
+    transform: rotate(50deg);
+    }
+.div4{left: 120px;
+    top: 40px;
+    background-color: blue;
+    transform: rotate(30deg);}
+.div5 {background-color:plum;
+    left: 45px;
+    top: 35px;
+    transform: rotate(15deg);
+   
+}

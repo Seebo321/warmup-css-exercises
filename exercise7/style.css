@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+.interior { position: absolute;
+     width:100px; 
+     height:100px;
+    background-color: blue;
+    border:0px solid white;}
+.div1{left: 330px;
+    top: 0px;
+    background-color:red;
+	box-shadow: -110px    0px 0  1px rgba(255, 0, 0, 0.5),
+                -220px    0px 0  1px rgba(255, 0, 0, 0.25);}
+
+.div2{left: 330px;
+    top: 110px;
+background-color: orange;
+box-shadow: -110px    0px 0  1px rgba(255, 165, 0, 0.5),
+-220px    0px 0  1px rgba(255, 165, 0, 0.25);}
+.div3{left: 330px;
+    top: 220px;
+    background-color: yellow;
+    box-shadow: -110px    0px 0  1px rgba(255, 255, 0, 0.5),
+    -220px    0px 0  1px rgba(255, 255, 0, 0.25);}
+.div4{left: 330px;
+    top: 330px;
+    background-color: blue;
+    box-shadow: -110px    0px 0  1px rgba(0, 0, 255, 0.5),
+    -220px    0px 0  1px rgba(0, 0, 255, 0.25); }
+.div5 {background-color:plum;
+    left: 330px;
+    top: 440px;
+    box-shadow: -110px    0px 0  1px rgba(221, 160, 221, 0.5),
+    -220px    0px 0  1px rgba(221, 160, 221, 0.25);
+}

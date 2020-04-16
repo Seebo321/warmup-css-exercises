@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+.interior { position: absolute;
+     width:100px; 
+     height:100px;
+    background-color: blue;
+    border:5px solid white;}
+.div1{left: 0px;
+    top: 0px;
+    background-color:red;}
+.div2{left: 105px;
+    top: 0px; 
+background-color: orange;}
+.div3{left: 210px;
+    top: 0px;
+    background-color: yellow;
+    }
+.div4{top: 50px;
+    left: 50px;
+    background-color: blue;}
+.div5 {background-color:plum;
+    left: 155px;
+    top: 50px;
+   
+}
